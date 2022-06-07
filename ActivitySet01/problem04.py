@@ -1,3 +1,4 @@
 # Conditional Execution
 
-hrs = input("Enter hours? ")
+a = "apple"
+print(len(a))
