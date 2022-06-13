@@ -36,3 +36,14 @@ name="harryisgood"
 d=name[0::2]
 print(d)
 #prints alternate characters
+
+#parsing and extracting(pdf)
+X="Reva cse@bangalore new"
+Y=X.find('@')
+print(Y)
+
+A=X.find(' ',Y)
+print(A)
+
+B = X[Y+1 : A]
+print(B)
