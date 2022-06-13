@@ -17,3 +17,5 @@ print(x)
 
 fruit="banana"
 print(len(fruit))
+
+
